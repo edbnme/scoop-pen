@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/edbnme/pen/releases/download/v0.1.0/pen_0.1.0_windows_amd64.zip",
+            "bin": [
+                "pen.exe"
+            ],
+            "hash": "13463a1940cf655842cda393020f7438d33c0074adc13e9cd2afcb337244935c"
+        }
+    },
+    "homepage": "https://github.com/edbnme/pen",
+    "description": "AI-powered browser performance engineering via MCP"
+}
