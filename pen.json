@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/edbnme/pen/releases/download/v0.1.0/pen_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/edbnme/pen/releases/download/v0.2.0/pen_0.2.0_windows_amd64.zip",
             "bin": [
                 "pen.exe"
             ],
-            "hash": "13463a1940cf655842cda393020f7438d33c0074adc13e9cd2afcb337244935c"
+            "hash": "13f18314e62a493d1ce6221ba9eb5139b4da61edc2731f84f2a812a85ceb51ea"
         }
     },
     "homepage": "https://github.com/edbnme/pen",
